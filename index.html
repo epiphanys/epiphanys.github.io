@@ -2,7 +2,7 @@
 <html xmlns="http://www.zlovel.top">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>jquery+html5烂漫爱心表白动画</title>
+<title>一起到白头</title>
 
 <style type="text/css">
 @font-face {
